@@ -8,6 +8,10 @@
       "name": "yarn init",
       "command": "yarn init",
       "runAtStart": true
+    },
+    "node dev.js": {
+      "name": "node dev.js",
+      "command": "node dev.js"
     }
   }
 }
