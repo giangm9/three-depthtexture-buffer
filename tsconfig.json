@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "baseUrl": "./src",
+        "paths": {
+            "@three-addons/*": [
+                "../node_modules/three/examples/jsm/*",
+                "../node_modules/@types/three/examples/jsm/*"
+            ]
+        }
+    }
+}
